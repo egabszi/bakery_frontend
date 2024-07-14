@@ -1,0 +1,10 @@
+{
+    "MENU_PAGE.MENU_FILTER.LACTOSE_FREE" : "laktóz mentes",
+    "MENU_PAGE.MENU_FILTER.GLUTEN_FREE" : "glutén mentes",
+    "MENU_PAGE.MENU_FILTER.FILTER" : "Szűrés",
+    "MENU_PAGE.MENU_FILTER.FILTER_HEADER" : "Szűrők",
+    "MENU_PAGE.MENU_FILTER.FILTER_PLACEHOLDER": "Recept neve",
+    "MENU_PAGE.MENU_FILTER.LENGHT": "Keresésnek megfelelő: {{foundRecipes}}",
+
+    "HEADER.CHECKOUT": "Kosár"
+}

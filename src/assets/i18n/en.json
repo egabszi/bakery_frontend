@@ -1,0 +1,10 @@
+{
+    "MENU_PAGE.MENU_FILTER.LACTOSE_FREE" : "lactose free",
+    "MENU_PAGE.MENU_FILTER.GLUTEN_FREE" : "gluten free",
+    "MENU_PAGE.MENU_FILTER.FILTER" : "Filter",
+    "MENU_PAGE.MENU_FILTER.FILTER_HEADER" : "Filters",
+    "MENU_PAGE.MENU_FILTER.FILTER_PLACEHOLDER": "Recipe name",
+    "MENU_PAGE.MENU_FILTER.LENGHT": "Recipes Found: {{foundRecipes}}",
+
+    "HEADER.CHECKOUT": "Checkout"
+}
